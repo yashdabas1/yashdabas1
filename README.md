@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name's Yash
+I am currently learning Python.
+I am new to programming but I am a fast learner....
+I'll add more to this page once I've gained some more skills, until then....
 <!--
 **yashdabas1/yashdabas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
